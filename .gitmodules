@@ -1,0 +1,6 @@
+[submodule "LibrosApp"]
+	path = LibrosApp
+	url = https://github.com/Dr4CuK30/LibrosApp
+[submodule "libros-api"]
+	path = libros-api
+	url = https://github.com/Dr4CuK30/LibrosApi

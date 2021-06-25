@@ -1,0 +1,5 @@
+Type: Azure SQL
+HOST: pruebaswork.database.windows.net
+user: root1
+password: Pass1234
+database: prueba_tec
